@@ -1,0 +1,32 @@
+107.150.59.106
+Customer
+LnbNJqGFEe2B
+
+
+158.69.226.37	ubuntu	
+NcWSeLoR6RLwc9ge
+
+69.30.245.2	
+customer	
+nR7sGqszwFC8
+
+ubuntu
+158.69.254.5
+bvkHqt9mDEmmbyh
+
+
+root
+51.68.181.155
+Pass: JiUR3dLKhrB48j5vh
+
+root
+51.77.67.166
+Pass: 1E3XgyPPbVUueF3ib
+
+root
+51.68.180.51
+Pass: 2pk9x4783NNNnTLrU
+
+root
+145.239.3.124
+Pass: 7893FEys15otF6tSo
